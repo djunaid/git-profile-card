@@ -1,0 +1,12 @@
+{
+  "name": "reactjs-jsx-forked",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.27.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  }
+}
